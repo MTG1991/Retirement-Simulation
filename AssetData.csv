@@ -1,4 +1,4 @@
-﻿DATE,World Equities,US Treasuries,High Yield ,Inflation Protection,Currency Protection,Regime-5,Regime-7,Regime-NBER,US Equities,EAFE Equities,EM Equities,Leveraged Treasuries,Corp Bonds,TIPS(backfilled),Real Estate,Commodities,T-bill
+﻿DATE,World Equities,US Treasuries,High Yield ,Inflation Protection,Currency Protection,Regime-5,Regime-7,Regime-NBER,US Equities,EAFE Equities,EM Equities,LongTreasuries,Corp Bonds,TIPS(backfilled),Real Estate,Commodities,T-bill
 1/1/85,0.028511,0.019243,0.037908,-0.016265,,1,1,1,0.081301,0.02279517,,0.0315,0.029028581,0.002978,0.056605,0.021351,0.006918734
 2/1/85,-0.009204,-0.017574808,0.012689,0.006362,,1,1,1,0.030075,-0.005607098,,-0.044692196,-0.025400593,-0.011213,0.016448,-0.015217,0.006440909
 3/1/85,0.075134,0.018955789,0.004323,-0.002848,,1,1,1,-0.007299,0.07789491,,0.028719302,0.019404863,0.016108,-0.006716,0.037171,0.007346242
